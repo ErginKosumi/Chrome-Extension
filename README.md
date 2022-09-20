@@ -1,2 +1,2 @@
 # Chrome-Extension
-Built with javascript
+Built with javascript and chrome API
